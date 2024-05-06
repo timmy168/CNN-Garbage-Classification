@@ -22,13 +22,17 @@ Utilize a CNN model with Conv2D, MaxPooling2D, flatten, dense, dropout layers.
 
 ## Result
 The result of finetuing parameters:
+
 ![image](https://github.com/timmy168/CNN-Garbage-Classification/blob/main/Picture/result.png)
 
 The result of using different optimizer:
+
 ![image](https://github.com/timmy168/CNN-Garbage-Classification/blob/main/Picture/result_2.png)
 
 The confusion matrix of the model:
+
 ![image](https://github.com/timmy168/CNN-Garbage-Classification/blob/main/Picture/confusion_matrix.png)
 
 The result of each categories of the test data:
+
 ![image](https://github.com/timmy168/CNN-Garbage-Classification/blob/main/Picture/predict.png)
