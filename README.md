@@ -2,7 +2,7 @@
 This is a small project of ultilizing a CNN model to automatic classify the garbage image.
 
 ## Training Data
-Using garbage image data from Kaggle, with the distribution of 393 images of cardboard、491 images of glass、584 images of paper、472 images of plastic、127 images of trash.
+Using garbage image data from Kaggle, with the distribution of 393 images of cardboard, 491 images of glass, 584 images of paper, 472 images of plastic and 127 images of trash.
 <center><img src="https://github.com/timmy168/CNN-Garbage-Classification/blob/main/Picture/garbage_distribution.png"></center>
 
 Here are the some of the images:
