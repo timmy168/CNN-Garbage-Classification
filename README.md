@@ -33,7 +33,7 @@ The confusion matrix of the model:
 
 <center><img src="https://github.com/timmy168/CNN-Garbage-Classification/blob/main/Picture/confusion_matrix.png"></center>
 
-The overall accuracy of the model:
+The overall accuracy of the model is 92.36%
 <center><img src="https://github.com/timmy168/CNN-Garbage-Classification/blob/main/Picture/total_accuracy.png"></center>
 
 The result of each categories of the test data:
